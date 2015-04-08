@@ -1,0 +1,5 @@
+/target
+.factorypath
+/src/main/release/conf.properties
+/src/main/webapp/*
+!/src/main/webapp/WEB-INF
